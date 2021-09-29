@@ -1,7 +1,6 @@
 # STAR Data Quality Assurance Icons
 Produce a full set of STAR data quality icons in .PNG format for use in performance reports.  The icons are drawn using the {grid} package.
 
----
 ## Project Description
 This project produces a set of RAG quadrant icons needed for some performance reports.  The icon set can then be automatically rendered into reports (for example using RMarkdown).  
 The project is not intended to present the STAR process itself, but in brief summary (to help understand the code):  
@@ -15,7 +14,6 @@ Rated on a RAG scale where:
 * Amber - Acceptable assurance with action plan to move to green
 * Red - Limited or no assurance
 
----
 ## How to use
 Two options:
 1. Take the complete icon set from the `output` folder.  The full icon set is 82 files (81 permutations of 3 colours applied to 4 quadrants, plus a single "white" icon).  
