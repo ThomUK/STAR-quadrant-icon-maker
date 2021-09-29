@@ -1,4 +1,4 @@
-make_icon_png <- function(string, preview = FALSE){
+make_icon_png <- function(string = "WWWW", preview = FALSE){
   
   if(preview) {
     
