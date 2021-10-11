@@ -10,3 +10,9 @@ walk(icon_names(), make_icon_png)
 
 # add an all white icon to the set
 make_icon_png("WWWW")
+
+# add white icons with a single green quadrant for documentation
+make_icon_png("GWWW")
+make_icon_png("WGWW")
+make_icon_png("WWGW")
+make_icon_png("WWWG")
