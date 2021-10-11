@@ -27,5 +27,10 @@ For example `make_icon_png("RAGA")` will create the `star_RAGA.png` icon, and sa
 
 ![RAGA](output/star_RAGA.png)
 
+The full icon set:  
+
+![screenshot of all 82 icons](https://user-images.githubusercontent.com/10871342/135309504-55cf0bc1-bcf7-4ead-8096-a4d578bae53c.png)
+
+
 
 
